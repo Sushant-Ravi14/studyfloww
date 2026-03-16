@@ -24,5 +24,3 @@ dist-ssr
 *.sw?
 
 src/components
-src/context
-src/pages
